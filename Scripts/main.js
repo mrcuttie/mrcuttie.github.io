@@ -1,7 +1,7 @@
 const nextButton = document.querySelector('.next');
 const prevButton = document.querySelector('.prev');
 const showCase = document.querySelector('#showcase');
-const photoPaths = ['../mywebsite/images/Mushrooms.jpg', '../mywebsite/images/falls.jpg','../mywebsite/images/Grad.jpg']
+const photoPaths = ['../images/Mushrooms.jpg', '../images/falls.jpg','../images/Grad.jpg']
 const l = photoPaths.length;
 let photo = 0;
 
